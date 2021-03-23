@@ -1,12 +1,12 @@
 ---
-title: Rationale
+title: Tiếp
 timezone: UTC
 collections:
   articles:
-    title: Articles
+    title: Tin mới
     output: true
   our-work:
-    title: Our work
+    title: Căn hộ
     output: true
   posts:
     title: Posts
@@ -15,7 +15,7 @@ collections:
     title: Resources
     output: true
   shop:
-    title: Shop
+    title: Account
     output: true
   uploads:
     title: Uploads
@@ -106,7 +106,7 @@ defaults:
       image_ratio: 
       color: 
     og_image: 
-url: https://rationale-design.com
+url: https://tiep.vn
 permalink: pretty
 exclude:
 - README.md
@@ -116,6 +116,5 @@ exclude:
 plugins:
 - jekyll-sitemap
 - jekyll-feed
-description: Rationale is a graphic design studio providing world-class expertise
-  in visual identity design, websites, applications, publications, and more.
+description: Tiếp là chuyên trang danh sách các căn hộ bán và cho thuê tại Bình Dương được phát triển bởi Phạm Xuân Tiếp cho Trần Thùy Chinh.
 og_image: "/uploads/rationale_og.jpg"
