@@ -1,16 +1,16 @@
 ---
-title: Proprio
+title: Căn hộ Compass One 1 Phòng ngủ
 date: 2018-11-09 00:12:00 Z
 position: 0
 year: 2018
 images:
-- image: "/uploads/rationale_2018_proprioid_1a.jpg"
+- image: "/uploads/compass_1pn/01.jpg"
   alt: proprio visual identity medical imaging technology
   image_ratio: 16-9
   color: "#8e3dbd"
-- image: "/uploads/rationale_2018_proprioid_2a.jpg"
+- image: "/uploads/compass_1pn/02.jpg"
   alt: proprio visual identity medical imaging technology
-  image_ratio: 16-9
+  image_ratio: 3-2
   color: "#fefdf9"
 - image: "/uploads/rationale_2018_proprioid_3a.jpg"
   alt: proprio visual identity medical imaging technology
@@ -29,12 +29,14 @@ images:
   image_ratio: 16-9
   color: "#fefdf9"
 thumb_image:
-  image: "/uploads/rationale_2018_proprioid_0a.jpg"
+  image: "/uploads/compass_1pn/000.jpg"
   alt: proprio visual identity medical imaging technology
   image_ratio: 3-2
   color: "#f2f2f2"
 is_featured: true
-og_image: "/uploads/rationale_2018_proprioid_1og.jpg"
+og_image: "/uploads/compass_1pn/00.jpg"
 ---
 
-For medical imaging and technology company [Proprio](http://propriovision.com), we created a bold and nuanced visual identity system that reflects the spirit and process of what they do. A design language of geometric forms, technical imagery, and kinetic, transforming hexagons merges with overlaying colors that reflect a sight into the unseen.
+Cho thuê căn hộ 1 phòng ngủ sang trọng Compass one Chánh Nghĩa TDM Bình Dương gọi ngay [0967852242](tel:0967852242) Trần Thùy Chinh.
+Căn hộ Compass one Chánh Nghĩa TDM Bình Dương Loại: 1pn, 1 wc Diện tích: 59m2 Tầng 15 căn số 10
+Tình trạng: new 100%, 1 máy lạnh, bếp trên dưới, máy hút mùi, bếp điện từ, bồn rửa.
