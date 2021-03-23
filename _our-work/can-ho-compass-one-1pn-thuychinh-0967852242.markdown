@@ -6,19 +6,19 @@ year: 2018
 images:
 - image: "/uploads/compass_1pn/01.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
-  image_ratio: 16-9
+  image_ratio: 1-1
   color: "#8e3dbd"
 - image: "/uploads/compass_1pn/02.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
-  image_ratio: 3-2
+  image_ratio: 1-1
   color: "#fefdf9"
 - image: "/uploads/compass_1pn/03.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
-  image_ratio: 3-2
+  image_ratio: 1-1
   color: "#111111"
 - image: "/uploads/compass_1pn/04.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
-  image_ratio: 3-2
+  image_ratio: 1-1
   color: "#111111"
 - image: "/uploads/compass_1pn/05.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
