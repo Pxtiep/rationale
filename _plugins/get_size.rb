@@ -39,7 +39,7 @@ class GetSizeTag < Liquid::Tag
 
             # if nothing was found, get the size from imgix 
             if flag == 0
-                pixelwidth, pixelheight = FastImage.size('https://rationale-design.imgix.net' + var.strip)
+                pixelwidth, pixelheight = FastImage.size('https://mystifying-newton-c541aa.netlify.app' + var.strip)
                 
                 printheight = "56"
                 printheight = sprintf("%.4f",(pixelheight.to_f * 100 / pixelwidth.to_f))

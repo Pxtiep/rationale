@@ -38,7 +38,7 @@ class GetColorTag < Liquid::Tag
 
             # if nothing was found, get the color from imgix 
             if flag == 0
-                uri = URI.parse('https://rationale-design.imgix.net' + var.strip + '?palette=json&colors=2')
+                uri = URI.parse('https://mystifying-newton-c541aa.netlify.app' + var.strip + '?palette=json&colors=2')
                 
                 # get resource with 5s timeout
                 begin
