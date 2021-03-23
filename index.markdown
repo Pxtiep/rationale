@@ -6,4 +6,4 @@ og_image: "/uploads/rationale_og.jpg"
 layout: our-work
 ---
 
-Sell and rent Apartment and Google AdSense verified account at Binh Duong Province, Vietnam.
+Sell, Rent and Buy Apartment and Google AdSense verified account at Binh Duong Province, Vietnam.
