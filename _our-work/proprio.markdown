@@ -12,19 +12,19 @@ images:
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
   image_ratio: 3-2
   color: "#fefdf9"
-- image: "/uploads/rationale_2018_proprioid_3a.jpg"
+- image: "/uploads/compass_1pn/03.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
   image_ratio: 3-2
   color: "#111111"
-- image: "/uploads/rationale_2018_proprioid_4a.jpg"
+- image: "/uploads/compass_1pn/04.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
   image_ratio: 3-2
   color: "#111111"
-- image: "/uploads/rationale_2018_proprioid_5a.jpg"
+- image: "/uploads/compass_1pn/05.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
   image_ratio: 3-2
   color: "#fefdf9"
-- image: "/uploads/rationale_2018_proprioid_6b.jpg"
+- image: "/uploads/compass_1pn/06.jpg"
   alt: Căn hộ Compass One 1 Phòng ngủ Trần Thùy Chinh 0967852242
   image_ratio: 16-9
   color: "#fefdf9"
@@ -37,7 +37,7 @@ is_featured: true
 og_image: "/uploads/compass_1pn/00.jpg"
 ---
 
-Cho thuê căn hộ 1 phòng ngủ sang trọng Compass one Chánh Nghĩa TDM Bình Dương gọi ngay [0967852242](tel:0967852242) Trần Thùy Chinh.
+Cho thuê căn hộ 1 phòng ngủ sang trọng Compass one Chánh Nghĩa TDM Bình Dương gọi ngay [**0967852242**](tel:0967852242) Trần Thùy Chinh.
 
 Căn hộ Compass one Chánh Nghĩa TDM Bình Dương 
 
