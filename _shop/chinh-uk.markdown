@@ -1,6 +1,6 @@
 ---
-title: Ga UK đã active kèm domain Chinh.uk
-date: 2017-09-19 15:16:00 Z
+title: UK Adsense Pin verified Chinh.uk
+date: 2021-03-23 15:16:00 Z
 published: false
 position: 4
 price: 130
