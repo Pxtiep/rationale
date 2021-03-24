@@ -13,14 +13,10 @@ og_image: "/uploads/rationale_ourapproach_og1a.jpg"
 bottom_body: "Pham Xuan Tiep, the acclaimed creator and founder of Tiếp, has previously
   selling more than 500+ accounts for people who like to earning website adsense around
   vietnamese, india, Sri Lanka in the world, and his team of top talent brings a broad
-  level of insight to each project. \n\nAs well as being a foremost expert in the
-  space of identity design, Wolcott has also lead design and development on significant
-  application and website projects, reaching billions of users. He has taught web
-  design at the University of Washington, identity design at the School of Visual
-  Concepts, and is grateful to have [received praise](https://rationale-design.com/their-words/)
-  from some of the best designers of the last 100 years.\n\nHow can we help with your
-  next project?\n\n* [hello@rationale-design.com](mailto:hello@rationale-design.com)\n*
-  [+1 415/742 9116](tel:+1415749116)\n\n\n* 2825 Wetmore Ave\n* Everett, WA 98201\n"
+  level of insight to each project. \n\nBring many verified adsense account to the world, who love to creator content on the internet, and earning well with google [our adsense shop account](/shop/)
+  with many respect to you, please contact us.\n\nHow can we help with your
+  next project?\n\n* [px@tiep.us](mailto:px@tiep.us)\n*
+  [+84 033-703-6819](tel:0337036819)\n\n\n* Tiếp\n* Search on bar Facebook @Pxtiep"
 layout: our-approach
 ---
 
