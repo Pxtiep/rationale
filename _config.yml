@@ -6,7 +6,7 @@ collections:
     title: Account
     output: true
   our-work:
-    title: Căn hộ
+    title: Our Work
     output: true
   posts:
     title: Posts
@@ -15,7 +15,7 @@ collections:
     title: Resources
     output: true
   articles:
-    title: Tin mới
+    title: Article
     output: true
   uploads:
     title: Uploads
@@ -116,6 +116,5 @@ exclude:
 plugins:
 - jekyll-sitemap
 - jekyll-feed
-description: Tiếp là chuyên trang danh sách các căn hộ bán và cho thuê tại Bình Dương
-  được phát triển bởi Phạm Xuân Tiếp cho Trần Thùy Chinh.
+description: Tiếp is official website tell you about Tiếp the creator of adsense verified website.
 og_image: "/uploads/rationale_og.jpg"
