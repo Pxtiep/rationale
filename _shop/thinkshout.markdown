@@ -8,14 +8,14 @@ buytag: Buy now
 is_buyactive: true
 imgcount: 1
 images:
-- image: "/uploads/thinkshout/01.png"
+- image: "/uploads/thinkshout/01.jpg"
   alt: UK Adsense fresh new Thinkshout.page
   color: "#cccccc"
 thumb_image:
-  image: "/uploads/thinkshout/01.png"
+  image: "/uploads/thinkshout/01.jpg"
   alt: UK Adsense fresh new Thinkshout.page
   color: "#fffdfa"
-og_image: "/uploads/thinkshout/01.png"
+og_image: "/uploads/thinkshout/01.jpg"
 ---
 
 Tên miền: [Thinkshout.page](https://Thinkshout.page)
