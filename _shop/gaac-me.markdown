@@ -22,9 +22,9 @@ Tên miền: [Gaac.me](https://gaac.me/collections/all)
 
 Gaac.me là tên miền ngắn có 4 ký tự, đã đăng ký và duyệt quảng cáo adsense kiếm tiền qua website, là loại ga content 68% doanh thu, đã được xác minh pin địa chỉ.
 
-Bạn có thể liên hệ mình theo thông tin dưới đây
-Facebook Page https://facebook.com/Pxtiep
-Personal Facebook https://www.facebook.com/profile.php?id=100010018693354
+You can pay directly via Paypal the link above, or contact Tiếp at
+[Facebook Page **Tiếp**](https://facebook.com/Pxtiep) or 
+[Personal Facebook of **Tiếp**](https://www.facebook.com/profile.php?id=100010018693354)
 Zalo 0337036819
 
 Đơn giá ngoại tệ: $110, Việt nam: 2.500.000đ

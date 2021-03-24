@@ -23,8 +23,8 @@ Tên miền: [Thinkshout.page](https://Thinkshout.page)
 Chinh.uk is an UK adsense account based on UK address, The UK account already verified PIN, have £7 already in account.
 
 You can pay directly via Paypal the link above, or contact Tiếp at
-Facebook Page https://facebook.com/Pxtiep
-Personal Facebook https://www.facebook.com/profile.php?id=100010018693354
+[Facebook Page **Tiếp**](https://facebook.com/Pxtiep) or 
+[Personal Facebook of **Tiếp**](https://www.facebook.com/profile.php?id=100010018693354)
 
 Pricing: $60
 
