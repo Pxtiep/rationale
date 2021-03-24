@@ -2,7 +2,7 @@
 title: Ga Việt đã active kèm domain Gaac.me
 date: 2021-03-23 18:33:00 Z
 position: 5
-price: 45
+price: 110
 buylink: https://paypal.me/pxtiep
 buytag: Buy now
 is_buyactive: true
@@ -18,11 +18,11 @@ thumb_image:
 og_image: "/uploads/gaac/01.jpg"
 ---
 
-Tên miền: [Gaac.me](https://gaac.me)
+Tên miền: [Gaac.me](https://gaac.me/collections/all)
 
 Gaac.me là tên miền ngắn có 4 ký tự, đã đăng ký và duyệt quảng cáo adsense kiếm tiền qua website, là loại ga content 68% doanh thu, đã được xác minh pin địa chỉ.
 
-Đơn giá ngoại tệ: $45, Việt nam: 1.000.000đ
+Đơn giá ngoại tệ: $110, Việt nam: 2.500.000đ
 
 Năm – 2021 <br>
 Quốc gia đăng ký – Việt Nam <br>
