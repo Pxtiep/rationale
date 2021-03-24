@@ -18,7 +18,7 @@ thumb_image:
 og_image: "/uploads/thinkshout/01.jpg"
 ---
 
-Tên miền: [Thinkshout.page](https://Thinkshout.page)
+Domain name: [Thinkshout.page](https://Thinkshout.page)
 
 Chinh.uk is an UK adsense account based on UK address, The UK account already verified PIN, have £7 already in account.
 

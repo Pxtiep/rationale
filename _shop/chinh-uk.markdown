@@ -18,7 +18,7 @@ thumb_image:
 og_image: "/uploads/chinh/01.jpg"
 ---
 
-Tên miền: [Chinh.uk](https://chinh.uk)
+Domain name: [Chinh.uk](https://chinh.uk)
 
 Chinh.uk is an UK adsense account based on UK address, The UK account already verified PIN, have £7 already in account.
 
